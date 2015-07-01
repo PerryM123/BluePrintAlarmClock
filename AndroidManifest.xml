@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="moravian.edu"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="8" />
+
+     <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" android:name="moravian.edu.GlobalVariables">
+        <activity
+            android:name=".Main"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="AlarmSettings">
+        </activity>
+        <activity
+            android:name=".NormalAlarmReceiver">
+        </activity>
+        <activity
+            android:name="SnoozeDismiss">
+        </activity>
+        <activity
+            android:name=".WordProblem">
+        </activity>
+        <activity
+            android:name="MathScreen">
+        </activity>
+        <service android:enabled="true" android:name=".SoundService" />
+    </application>
+
+
+</manifest>
