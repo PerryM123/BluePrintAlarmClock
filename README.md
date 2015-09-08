@@ -1,6 +1,6 @@
 # BluePrintAlarmClock
 Software Engineering class project <p>
-Android Application <p> 
+Android Application made with Java Programming Language<p> 
 Project length: 2 months <p>
 # Software Engineering Ideologies and Patterns: 
 <b>Agile Programming: </b> <p>
