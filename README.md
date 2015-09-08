@@ -1,7 +1,7 @@
 # BluePrintAlarmClock
 Software Developer project <p>
 Android Application <p> 
-
+Project length: 2 months <p>
 # Software Engineering Ideologies and Patterns: 
 <b>Agile Programming: </b> <p>
 -Weekly Meetings <p>
