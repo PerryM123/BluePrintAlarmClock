@@ -74,4 +74,4 @@ leaving the application only with a Math Problem Alarm. <p>
 ## About Us/ Authors
 A team of programmers working on the same goal during our school semester <p>
 Author: <p>
-Perry Miranda - perrymiranda1@yahoo.com <p>
+Perry Miranda<p>
