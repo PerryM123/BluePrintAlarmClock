@@ -31,15 +31,10 @@ and successfully shuts off the alarm, the user will be FULLY awakened and be una
 
 # Screenshots
 ![alt tag](https://raw.githubusercontent.com/PerryM123/BluePrintAlarmClock/master/screenshots/MainScreen.png)
-<p>
 ![alt tag](https://raw.githubusercontent.com/PerryM123/BluePrintAlarmClock/master/screenshots/CreateAlarmScreen.png)
-<p>
 ![alt tag](https://raw.githubusercontent.com/PerryM123/BluePrintAlarmClock/master/screenshots/MathProblemEasy.png)
-<p>
 ![alt tag](https://raw.githubusercontent.com/PerryM123/BluePrintAlarmClock/master/screenshots/MathProblemHard.png)
-<p>
 ![alt tag](https://raw.githubusercontent.com/PerryM123/BluePrintAlarmClock/master/screenshots/AfterSolving.png)
-<p>
 
 # Regrets/Things we wished improved on/Lessons learned
 -Unfortunately, due to time constraints, our final sprint was incredibly hectic. We made a lot of desperate fixes and
